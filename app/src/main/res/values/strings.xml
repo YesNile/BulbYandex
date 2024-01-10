@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BulbYandex</string>
+    <string name="error_title">Произошла ошибка</string>
+</resources>
